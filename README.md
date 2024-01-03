@@ -1,4 +1,4 @@
- # Scheduler App
+ # Scheduler App for Software II
     Author: Samuel Buck
     Application Version: 1.0
     Date: July 12th, 2023
